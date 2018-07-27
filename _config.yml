@@ -2,7 +2,7 @@
 title: 파워블로그 # your site title
 author: kimin # You :P
 description: > # Meta description of Homepage
- Power Blog
+ 파워블로그
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://s1k3m3.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
