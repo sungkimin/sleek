@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Power Blog # your site title
+title: 파워블로그 # your site title
 author: kimin # You :P
 description: > # Meta description of Homepage
  Power Blog
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  .
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
